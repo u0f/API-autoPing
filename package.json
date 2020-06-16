@@ -1,0 +1,25 @@
+{
+  "name": "glitch-automaticping",
+  "version": "1.0.0",
+  "description": "Glitch 24/7 host free",
+  "main": "./lib/automaticping.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/u0f/GLITCH-automaticping.git"
+  },
+  "keywords": [
+    "glitch"
+  ],
+  "author": "Ic𝖾#0069",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/u0f/GLITCH-automaticping/issues"
+  },
+  "homepage": "https://github.com/u0f/GLITCH-automaticping#readme",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
+}
