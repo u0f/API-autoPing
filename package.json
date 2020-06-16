@@ -1,6 +1,6 @@
 {
   "name": "glitch-automaticping",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Glitch 24/7 host free",
   "main": "./lib/automaticping.js",
   "scripts": {
@@ -13,7 +13,7 @@
   "keywords": [
     "glitch"
   ],
-  "author": "Ic𝖾#0069",
+  "author": "Ice",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/u0f/GLITCH-automaticping/issues"

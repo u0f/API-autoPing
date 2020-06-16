@@ -10,7 +10,7 @@ The URL is automatically find ¡Only functional in glitch proyects!
 | start | The package attempt to call the url |
 
 
-### Instalación
+### Instalation: 
 ```sh
 npm install glitch-automaticping
 ```
@@ -26,7 +26,8 @@ client.on("ready", () => {
  //call interval
 setInterval( function() {
  automaticping.start()
-}, 180000)
+}, 10000)
+//This time you can change it, but 10000 work correctly
 });
 
 
