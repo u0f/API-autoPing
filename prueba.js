@@ -1,3 +1,7 @@
 const pinger = require("./lib/automaticping")
 
-console.log(pinger.info())
+setInterval( function() {
+
+console.log(pinger.start())
+
+}, 10000)
